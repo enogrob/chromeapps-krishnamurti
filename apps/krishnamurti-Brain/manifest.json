@@ -1,0 +1,17 @@
+{
+  "name": "Brain-k",
+  "description": "Brain-k",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://app.thebrain.com/brains/a0ae1f95-deb2-4d73-825e-744192a6466b/thoughts/ea303c83-0962-41ea-9679-1efb77ff4922/notes"
+    ],
+    "launch": {
+      "web_url": "https://app.thebrain.com/brains/a0ae1f95-deb2-4d73-825e-744192a6466b/thoughts/ea303c83-0962-41ea-9679-1efb77ff4922/notes"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
