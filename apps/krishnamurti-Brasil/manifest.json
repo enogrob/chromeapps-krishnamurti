@@ -1,0 +1,17 @@
+{
+  "name": "Brasil",
+  "description": "Access Brasil",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/channel/UCoCPiIsdK_KxryHJPpbAzPg"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/channel/UCoCPiIsdK_KxryHJPpbAzPg"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

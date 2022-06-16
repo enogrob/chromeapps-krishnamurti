@@ -1,0 +1,17 @@
+{
+  "name": "KFA",
+  "description": "Access KFA",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.kfa.org"
+    ],
+    "launch": {
+      "web_url": "https://www.kfa.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Centre",
+  "description": "Access Centre",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://krishnamurticentre.org.uk"
+    ],
+    "launch": {
+      "web_url": "https://krishnamurticentre.org.uk"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

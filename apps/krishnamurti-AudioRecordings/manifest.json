@@ -1,0 +1,17 @@
+{
+  "name": "Audio Recordings",
+  "description": "Access Audio Recordings",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PL1n30s-LKus4gD55pB3Zrov0j1d_jkc5o"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PL1n30s-LKus4gD55pB3Zrov0j1d_jkc5o"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

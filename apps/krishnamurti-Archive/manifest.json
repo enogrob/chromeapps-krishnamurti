@@ -1,0 +1,17 @@
+{
+  "name": "Archive",
+  "description": "Access Archive",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/channel/UCRm1lERIk5jD5QY8Kk_65Mg"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/channel/UCRm1lERIk5jD5QY8Kk_65Mg"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

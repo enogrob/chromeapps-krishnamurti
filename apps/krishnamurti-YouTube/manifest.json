@@ -1,0 +1,17 @@
+{
+  "name": "Official Channel",
+  "description": "Access Official Channel",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/c/KFoundation/featured"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/c/KFoundation/featured"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

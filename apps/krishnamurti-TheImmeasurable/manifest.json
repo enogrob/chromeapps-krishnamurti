@@ -1,0 +1,17 @@
+{
+  "name": "The Immeasurable",
+  "description": "Access The Immeasurable",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://theimmeasurable.org"
+    ],
+    "launch": {
+      "web_url": "https://theimmeasurable.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

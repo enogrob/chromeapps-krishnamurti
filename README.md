@@ -16,9 +16,32 @@ $ git clone https://github.com/enogrob/chromeapps-krishnamurti.git
 
 As we can see a subdirectory is created for each Krishnamurti app:
 
-$ ls -la
+$ ls -latotal 328
+drwxr-xr-x@  9 robertonogueira  staff   288 Jun 16 09:27 .
+drwxr-xr-x@ 39 robertonogueira  staff  1248 Jun 16 09:06 ..
+drwxr-xr-x  12 robertonogueira  staff   384 Jun 16 09:27 .git
+-rw-r--r--   1 robertonogueira  staff    13 May 26 13:45 .gitignore
+-rw-r--r--@  1 robertonogueira  staff     0 May 26 13:50 Icon?
+-rw-r--r--@  1 robertonogueira  staff  1368 Jun 16 11:41 README.md
+drwxr-xr-x  13 robertonogueira  staff   416 Jun 16 11:25 apps
+drwxr-xr-x   4 robertonogueira  staff   128 Jun 16 11:38 images
+drwxr-xr-x   4 robertonogueira  staff   128 Jun 16 10:20 resources
 
 $ tree -L 1 apps/
+apps
+|-- krishnamurti-Archive
+|-- krishnamurti-AudioRecordings
+|-- krishnamurti-Brasil
+|-- krishnamurti-Centre
+|-- krishnamurti-Homepage
+|-- krishnamurti-KFA
+|-- krishnamurti-KFI
+|-- krishnamurti-TheImmeasurable
+|-- krishnamurti-Wikipedia
+|-- krishnamurti-YouTube
+`-- krishnamurti-YouTubeTheImmeasurable
+
+11 directories, 0 files
 
 ### 2. Open Chrome with the following url:
 

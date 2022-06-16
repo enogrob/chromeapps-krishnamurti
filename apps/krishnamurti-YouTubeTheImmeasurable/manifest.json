@@ -1,0 +1,17 @@
+{
+  "name": "The Immeasurable",
+  "description": "Access Official The Immeasurable",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/c/TheImmeasurable"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/c/TheImmeasurable"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "KFI",
+  "description": "Access KFI",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.jkrishnamurti.in"
+    ],
+    "launch": {
+      "web_url": "https://www.jkrishnamurti.in"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
