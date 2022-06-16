@@ -1,0 +1,17 @@
+{
+  "name": "Wikipedia",
+  "description": "Access Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
+    ],
+    "launch": {
+      "web_url":"https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

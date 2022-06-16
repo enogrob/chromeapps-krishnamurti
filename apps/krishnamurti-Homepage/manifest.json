@@ -1,0 +1,17 @@
+{
+  "name": "Homepage",
+  "description": "Access Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://jkrishnamurti.org"
+    ],
+    "launch": {
+      "web_url": "https://jkrishnamurti.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
